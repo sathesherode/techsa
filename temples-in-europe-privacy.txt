@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - Temples in Europe</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      color: #333;
+      margin: 0;
+      padding: 0 16px;
+      background-color: #f8f8f8;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 32px 16px;
+      background-color: #fff;
+    }
+    img.logo {
+      display: block;
+      margin: 0 auto 12px;
+      width: 80px;
+      height: 80px;
+    }
+    h1 {
+      text-align: center;
+      font-family: serif;
+      font-size: 28px;
+      margin-bottom: 32px;
+    }
+    h2 {
+      font-size: 20px;
+      margin-top: 24px;
+      margin-bottom: 8px;
+    }
+    p {
+      margin-bottom: 16px;
+      text-align: justify;
+    }
+    .bold {
+      font-weight: bold;
+    }
+    .footer {
+      font-size: 12px;
+      font-style: italic;
+      text-align: center;
+      margin-top: 32px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="icon.png" alt="Temples in Europe Logo" class="logo">
+
+    <h1>Temples in Europe</h1>
+
+    <p>At <span class="bold">Temples in Europe</span>, your privacy is sacred to us. We are committed to protecting your personal information while offering a spiritually enriching experience.</p>
+
+    <h2>Information We Collect</h2>
+    <p>
+      • A unique device ID to recognize returning users.<br>
+      • Donation details: your name, email, and phone number (used for receipts and communication only).<br>
+      • Archanai details: name, Nakshatram, and Gothram (religious data — collected only with your explicit consent).<br>
+      • Location access: used solely to suggest nearby temples (not stored or shared).
+    </p>
+
+    <h2>How We Use Your Information</h2>
+    <p>
+      • To process donations, Archanai bookings, and event participation.<br>
+      • To send you confirmations, reminders, or temple event updates.<br>
+      • To enhance and personalize your in-app experience.<br>
+      • Submitted Archanai requests are securely shared with the temple and cannot be deleted from their system. You can contact the temple directly for deletion requests.
+    </p>
+
+    <h2>Legal Basis for Processing</h2>
+    <p>
+      We process your data under the following lawful bases under the GDPR:<br>
+      • Consent – for processing religious details such as Nakshatram and Gothram.<br>
+      • Contract – for processing donations or Archanai bookings you initiate.<br>
+      • Legitimate Interests – to improve services, prevent fraud, and ensure app security.
+    </p>
+
+    <h2>Data Retention</h2>
+    <p>
+      We retain your information only as long as necessary to fulfill the purposes described in this policy or as required by law (e.g., financial record-keeping for donations).
+    </p>
+
+    <h2>Sharing Your Information</h2>
+    <p>
+      We do not sell or rent your personal data. We may share data only with:<br>
+      • The respective temple (for fulfilling bookings).<br>
+      • Secure third-party payment processors (for donation payments).<br>
+      • Service providers who help us operate the app, under strict confidentiality agreements.
+    </p>
+
+    <h2>Your Rights under GDPR</h2>
+    <p>
+      You have the right to:<br>
+      • Access the data we hold about you.<br>
+      • Request correction or deletion of your data.<br>
+      • Withdraw your consent at any time.<br>
+      • Lodge a complaint with a data protection authority if you believe your rights are violated.
+    </p>
+
+    <h2>Data Security</h2>
+    <p>
+      We use secure technologies and best practices to safeguard your data. However, no system is completely secure. We encourage you to keep your device secure when using our app.
+    </p>
+
+    <h2>Contact Us</h2>
+    <p>
+      If you have any questions or GDPR requests, email us at <span class="bold">lifeboosterapps@gmail.com</span>.
+    </p>
+
+    <p class="footer">Last updated: February 2025</p>
+  </div>
+</body>
+</html>
